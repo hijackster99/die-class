@@ -1,2 +1,2 @@
-# Git Lab #2
-## Secoind team member: <Justin Murray>
+# The second Git Lab
+## Second team member: <Justin Murray>
