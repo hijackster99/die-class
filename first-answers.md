@@ -8,3 +8,14 @@
 
 2.  CONFLICT (content): Merge conflict in README.md
     Automatic merge failed; fix conflicts and then commit the result.
+
+3.  * master
+
+4.  * header
+      master
+
+5.  die.h  first-answers.md  hello.md  README.md  second-answers.md  stop
+
+6.  first-answers.md  hello.md  README.md  second-answers.md  stop
+
+7.  no
