@@ -1,4 +1,4 @@
-# The second git lab
-## First team member: Jack Gagnon
-## Second team member: Justin Murray
-Die class project. It simulates a die and includes a driver program
+# The second Git lab
+## First team member: first name
+## Second team member: second name
+### Die Project: simulates the rolling of a die with a specified number of sides.
